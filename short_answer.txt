@@ -1,0 +1,71 @@
+1) What does the `rm` command in the terminal do?
+
+Your answer: The 'rm' command helps you to remove files or directories.
+
+
+------------------
+2) What terminal command would you use to list all the files and folder in the 
+   current directory?
+
+Your answer: To pull up a full list of files and folders in your current directory you can use the 'ls' command to assist.
+
+
+------------------
+3) Explain the difference between these two commands in the terminal:
+   
+   $ cd Users
+   $ cd /Users
+
+Your answer: The differences in entering the two commands are $ cd Users attempts to move into a directory named "Users" within the current directory while $ cd /Users tries to move into the "/Users" directory from the root.
+
+
+------------------
+4) Describe what git is and what it is used for.
+
+Your answer: Git is a distributed version control systems that allows software developers to track changes in their software during the development cycle.
+
+
+------------------
+5) Describe what GitHub is and what it is used for.
+
+Your answer: GitHub is an online platform that provides a centralized location for managing, hosting and collaborating Git repositories.
+
+
+------------------
+6) Which of these commands sets up a new git repository?
+    a) git clone 
+    b) git pull
+    c) git init
+    d) git status
+
+Your answer: C) git init
+
+------------------
+7) You want to check that you have properly added all the files you want to be
+   tracked in git BEFORE you make a commit. Which command will do this?
+     a) git push
+     b) git commit
+     c) git status
+     d) git remote
+
+Your answer: C) git status
+
+
+------------------
+8) What is the difference between `git add` and `git commit`?
+
+Your answer: The difference between git add and git commit are git add is used to stage changes while git commit is used to save those staged chages as a new commit in the git respository
+
+
+------------------
+9) What does the `git push` command do?
+
+Your answer: The git push command helps you to upload local changes to a remote repository
+
+
+------------------
+10) When would you use the `git clone` command?
+
+Your answer: The git clone command helps the user to create a copy of a remote git repository on your local machine.
+
+
